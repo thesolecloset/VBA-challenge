@@ -1,4 +1,4 @@
-This is a VBA Script To Analyze Genereated Stock Market Data:
+This is a VBA Script To Analyze Generated Stock Market Data:
 
 Before You Begin:
 
