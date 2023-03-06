@@ -44,3 +44,8 @@ Other Considerations:
 
 Make sure that the script acts the same on every sheet. 
 The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
+
+Buttons:
+
+
+I have added buttons to Clear All Worksheets In Workbook, Extract All Data From All Worksheets In Workbook, & To Color Code The Yearly Change Column.
